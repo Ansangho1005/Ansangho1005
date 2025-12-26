@@ -14,3 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+
+### 🎓 Electrical Engineering Student at Hanyang University (Seoul)
+
+- 🔭 **I’m currently working on ...**
+  - Intern at **Hanyang Univ. EE Lab** (Since 2025.09)
+
+- 🌱 **I’m currently learning ...**
+  - Electrical Engineering
+  - Deeply interested in **Robotics** & **Control Systems**
+
+- 📫 **How to reach me**
+  - [parallel.ahn@gmail.com](mailto:parallel.ahn@gmail.com)
+
+<br>
+
+## 🚀 Projects
+
+- https://hurimdiy.store/
+- https://yearendreciept.vercel.app/
