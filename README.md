@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 
-- https://hurimdiy.store/
-- https://yearendreciept.vercel.app/
+- MEOW PDF MERGER (24.09)
+- https://hurimdiy.store/ (25.12)
+- https://yearendreciept.vercel.app/ (25.12)
