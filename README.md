@@ -32,5 +32,6 @@ Here are some ideas to get you started:
 ## 🚀 Projects
 
 - MEOW PDF MERGER (24.09)
+- RL on Coppelia-Sim[FrankaEmika] (25.10~25.12)
 - https://hurimdiy.store/ (25.12)
 - https://yearendreciept.vercel.app/ (25.12)
