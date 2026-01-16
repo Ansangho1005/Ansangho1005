@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   - [NOTION](https://www.notion.so/Simulink-Student-Challenge-2025-Efficient-Fault-Recovery-Curriculum-Learning-Public-2e978608fcea80e1b35ec8528fa31ac3?source=copy_link)
 - RL on Coppelia-Sim[FrankaEmika] (25.10~25.12) https://github.com/Ansangho1005/coppelia-sim-zmq
 
-## DEV
+## 💻 DEV
 - MEOW PDF MERGER (24.09) https://github.com/Ansangho1005/MEOW-PDF-MERGER
 
 ## 💻 Web Services
