@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## 🏆 Awards & Scholarships
 - [Excellence Award]
 - Hanyang Univ X HYUNDAI NGV Manufacturing Problem Solving AI Agent Hackathon (2026.01.28)
-  - [Github](https://github.com/ANHOYA/Intermediate_Industrial_AI_Agent_NGV_HYU) / [Notion](https://www.notion.so/AI-AI-Agent-PUBLIC-2f678608fcea8023aee1f38e063e8d1d?source=copy_link)
+  - [Github](https://github.com/ANHOYA/Intermediate_Industrial_AI_Agent_NGV_HYU) / [Notion](https://www.notion.so/AI-AI-Agent-PUBLIC-2f678608fcea8023aee1f38e063e8d1d?source=copy_link) / [Dacon Official](https://dacon.io/competitions/official/236680/overview/description)
  
 ## 💻 DEV
 - MEOW PDF MERGER (24.09) [Github](https://github.com/ANHOYA/MEOW-PDF-MERGER)
