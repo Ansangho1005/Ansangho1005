@@ -1,59 +1,73 @@
+# Hi there, I'm Sangho An 👋
 
-<!--
-**Ansangho1005/Ansangho1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Electrical Engineering Student & Robotics / RL Researcher** @ Hanyang University
 
-Here are some ideas to get you started:
+[![Email](https://img.shields.io/badge/Email-parallel.ahn%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:shan1005@hanyang.ac.kr)
+[![Blog](https://img.shields.io/badge/Blog-anhoya--lab.tistory.com-orange?style=flat-square&logo=tistory)](https://anhoya-lab.tistory.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-ANHOYA-181717?style=flat-square&logo=github)](https://github.com/ANHOYA)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there 👋
+---
 
-### 🎓 Electrical Engineering Student at Hanyang University (Seoul)
+## 📌 About Me
 
-- 🔭 **I’m currently working on ...**
-  - I'm a senior in college now(2026).
-  - Intern at **Hanyang Univ. EE Lab** (Since 2025.09)
+- 🎓 **Education**: B.S. in Electrical Engineering, Hanyang University (Seoul)
+- 🔬 **Affiliation**: Undergraduate Researcher @ **COLAB** (Control & Optimization Lab)
+- 🔭 **Research Focus**: Robotics, Reinforcement Learning, Diffusion Policy, World Models & Autonomous Manipulation
 
-- 🌱 **I’m currently learning ...**
-  - Major in Electrical Engineering
-  - Currently, Studying Diffusion, Diffusion Policy and World Model
-  - Deeply interested in **Robotics** & **Control Systems**
+---
 
-- 📫 **How to reach me**
-  - [parallel.ahn@gmail.com](mailto:parallel.ahn@gmail.com)
+## 🛠️ Technical Skills
 
-- ETC
-  - BAEKJOON [SILVER 1](https://www.acmicpc.net/user/shan1005)
-<br>
+| Category                        | Technologies & Tools                                                         |
+| :------------------------------ | :--------------------------------------------------------------------------- |
+| **Languages**             | `Python`, `MATLAB`, `TypeScript`, `C/C++`                            |
+| **Robotics & Simulation** | `Simulink`, `IsaacSim`, `PSIM`, `Fusion360`                         |
+| **AI & Frameworks**       | `PyTorch`, `LangChain`, `FastAPI`, `OpenCV`, `React`, `Next.js`  |
+| **Hardware & Embedded**   | `Franka Panda`, `Doosan A0509`, `Raspberry Pi`, `ESP32`, `Arduino` |
+| **Tools & Platforms**     | `Git`, `LaTeX`, `Vercel`, `Supabase`, `Linux (Ubuntu)`             |
 
-## Paper
-- Enhancing Visuomotor Manipulation Control with a Predictive-Dynamics-Aware <br> World-Model-Conditioned Diffusion Policy [ICCAS 2026] (Under Review)
+---
 
-## 🚀 Projects
-- MATLAB SIMULLINK STUDENT CHALLENGE 2025 (2026.01.14)
-  - [📺YOUTUBE - "Efficient Fault Recovery : Curriculum Learning"](https://youtu.be/eeZr2bM1Hv0?si=rwpe4DK9iTpqOt5z)
-  - [NOTION](https://www.notion.so/Simulink-Student-Challenge-2025-Efficient-Fault-Recovery-Curriculum-Learning-Public-2e978608fcea80e1b35ec8528fa31ac3?source=copy_link)
-- RL on Coppelia-Sim[FrankaEmika] (25.10~25.12) [Github](https://github.com/ANHOYA/coppelia-sim-zmq)
+## 📝 Research & Publications
 
-## 📚 STUDY
-- RL studying blog [한국어](https://anhoya-lab.tistory.com/)
+- **Enhancing Visuomotor Manipulation Control with a Predictive-Dynamics-Aware World-Model-Conditioned Diffusion Policy**
+  - *ICCAS 2026* (Accepted)
+  - Focus: Visuomotor manipulation, World Models, Diffusion Policy
 
-## 🏆 Awards & Scholarships
-- [Excellence Award] Hanyang Univ X HYUNDAI NGV Manufacturing Problem Solving AI Agent Hackathon (2026.01.28)
-  - [Github](https://github.com/ANHOYA/Intermediate_Industrial_AI_Agent_NGV_HYU) / [Notion](https://www.notion.so/AI-AI-Agent-PUBLIC-2f678608fcea8023aee1f38e063e8d1d?source=copy_link) / [Dacon Official](https://dacon.io/competitions/official/236680/overview/description)
-- [Scholarship] K-Electric KEPCO Donation Scholarship (KOSAF)
-- [Scholarship] KAKAO BANK MENTORING SCHOLARSHIP (2026)
- 
-## 💻 DEV
-- MEOW PDF MERGER (24.09) [Github](https://github.com/ANHOYA/MEOW-PDF-MERGER) -> [MEOW PDF MERGER WEB](https://meow-pdf-merger-web.vercel.app/) (26.02)
+---
 
-## 💻 Web Services
-- [MEOW PDF MERGER WEB](https://meow-pdf-merger-web.vercel.app/)
+## 🚀 Key Projects
 
+### 🤖 Robotics & Control Systems
+
+- **MATLAB Simulink Student Challenge 2025: Efficient Fault Recovery**
+
+  - DDPG-based controller with Curriculum Learning for quadruped robot actuator fault recovery.
+  - Achieved 4.6x speedup in training efficiency (3,900 → 850 episodes).
+  - `MATLAB` `Simulink` `Simscape Multibody` `RL`
+  - [📺 YouTube](https://youtu.be/eeZr2bM1Hv0?si=rwpe4DK9iTpqOt5z) \| [📝 Notion](https://www.notion.so/Simulink-Student-Challenge-2025-Efficient-Fault-Recovery-Curriculum-Learning-Public-2e978608fcea80e1b35ec8528fa31ac3)
+- **MACS - Dynamic Wireless Power Transfer for AGVs**
+
+  - In-transit wireless charging system (100W, 82–85kHz) with 5mm air gap for indoor logistics AGVs.
+  - `WPT` `ROS` `Raspberry Pi` `Arduino` `Blender`
+
+### 💡 AI & Web Microservices
+
+- **Industrial Manufacturing AI Agent**
+
+  - Multimodal Vision LLM agent for semiconductor defect detection with Explainable AI (Chain-of-Thought) and OpenCV edge detection.
+  - `LangChain` `OpenCV` `FastAPI` `React` `GPT-4o-mini`
+  - [💻 GitHub](https://github.com/ANHOYA/Intermediate_Industrial_AI_Agent_NGV_HYU) \| [🌐 Dacon](https://dacon.io/competitions/official/236680/overview/description)
+- **Developer Productivity & Web Microservices**
+
+  - **[Isaac Commander](https://isaac-commander.vercel.app/)**: Web GUI for Isaac Lab training commands.
+  - **[MEOW PDF MERGER](https://meow-pdf-merger-web.vercel.app/)**: Web utility to merge single-sided PDF scans into double-sided documents.
+  - **[Notion2Blogger](https://notion2blogger.vercel.app/)**: Auto-converter publishing Notion documents to Google Blogger with LaTeX math & code formatting.
+  - `Next.js` `TypeScript` `Python` `Vercel` `Supabase`
+
+---
+
+## 📚 Technical Blog & Activity
+
+- 📝 **Blog**: Documenting study notes on RL, Robotics, and Control at [anhoya-lab.tistory.com](https://anhoya-lab.tistory.com/)
+- 💻 **Problem Solving**: Baekjoon Online Judge [Silver I](https://www.acmicpc.net/user/shan1005)
